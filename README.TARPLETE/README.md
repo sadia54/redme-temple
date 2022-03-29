@@ -115,9 +115,9 @@ console.log('hello')
 </br>
 
 ### Task List (Markdown) ###
-- [*] item1
-     - item 1.1
-     - item 1.2
+- [×] item1
+     - [×] item 1.1
+     -  [√] item 1.2
        
 - item2
 - item3
